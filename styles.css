@@ -1,0 +1,159 @@
+header{
+    display:flex;
+    background-color:navy;
+    justify-content:space-between;
+    width:100%;
+   }
+
+header a{
+    color:white;
+}
+header h3{
+    color:white;
+}
+
+div{
+    margin-bottom:30px;
+}
+
+ul.nav{
+    list-style-type:none;
+    display:flex;
+    padding:15px 40px;
+    }
+
+header li{
+    color:white;
+    padding-left:10px;
+    font-size:25px;
+}
+
+.intro {
+    padding:20px auto;
+    
+}
+
+.intro img{
+    width:700px;
+    margin-left: 30%;
+}
+
+#about{
+    padding: 10px auto;
+    width:600px;
+    position: relative;
+}
+
+#about .description{
+    z-index: 3;
+    background-color:gainsboro;
+    width: 400px;
+    height:290px;
+    margin:50px 0px;
+    padding:20px;
+    
+}
+
+#about img{
+    z-index: 1;
+    height:500px;
+    width:300px;
+}
+
+#services{
+    margin-top: 100px;
+    padding-top: 100px;
+    background-color:lightgray;
+     padding-left: 20%; 
+}
+
+.service{
+    width:300px;
+    margin-left:50px;
+}
+
+.service img{
+    border-radius:50%;
+    width: 150px;
+}
+
+
+
+.flex{
+    display:flex;
+}
+
+.horizontally-centered{
+    margin:auto;
+   
+}
+
+#contact h1{
+    font-size: 35px;
+}
+
+#contact input,textarea{
+    width:70%;
+    display:block;
+    margin-bottom:10px;
+    padding:12px;
+    border:1px solid lightgray;
+}
+#contact button{
+    background-color:blue;
+    width:70%;
+    margin-top: 20px;
+    margin-left:12%;
+}
+
+#contact button h3{
+    color:white;
+}
+
+footer{
+    background-color:black;
+}
+
+footer li,footer h5,footer p{
+    color: white;
+}
+
+footer li{
+    margin-left:15px;
+}
+
+footer ul{
+    margin-left:60%;
+}
+
+footer a{
+    color:white;
+}
+
+.text-centered{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+#contact a{
+    
+    margin-left: 40%;
+}
+
+@media (max-width:882px){
+    #displayBlock-onMediumScreen{
+        display: block;
+    }
+}
+
+@media (max-width:642px){
+    #displayBlock-onMediumScreen{
+        display: block;
+    }
+    .service{
+        display: block;
+    }
+}
