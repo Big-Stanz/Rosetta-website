@@ -24,7 +24,7 @@
         <div id="home" class="intro horizontally-centered">
           <h1 class="text-centered">ROSETTA</h1>
           <p class="text-centered">Exploring infinite possibilities through technology</p>
-          <img class="horizontally-centered" src="./img/intro.webp" alt="into img">
+          <img class="horizontally-centered" src="./intro.webp" alt="into img">
         </div>
 
         <div id="about" class="horizontally-centered">
@@ -35,7 +35,7 @@
               formed in the spring of 2022 that is focused on providing different
               services in the tech field.
             </p>
-            <img src="./img/hdDarkCube.jpeg" >
+            <img src="./hdDarkCube.jpeg" >
           </div>
         </div>
 
@@ -45,7 +45,7 @@
           <div class="flex" id="displayBlock-onSmallScreen">
             <div class="flex" id="displayBlock-onMediumScreen">
               <div class="service">
-                <img src="./img/consulting.jpeg" class="horizontally-centered">
+                <img src="./consulting.jpeg" class="horizontally-centered">
                 <h3 class="sub-heading text-centered">CONSULTING</h3>
                 <p>Rosetta is home to technology experts who boast a considerable amount 
                   of years of experience in the industry and re ready to share their 
@@ -54,7 +54,7 @@
               </div>
 
               <div class="service">
-                <img src="./img/VoIP.jpeg" class="horizontally-centered">
+                <img src="./VoIP.jpeg" class="horizontally-centered">
                 <h3 class="sub-heading text-centered">VoIP</h3>
                 <p>Rosetta provides next level calls over the internet with the 
                   best voice quality  and unbeatable prices in the market.
@@ -63,7 +63,7 @@
             </div>
 
             <div  class="service">
-              <img src="./img/codeOnScreen.jpeg" class="horizontally-centered">
+              <img src="./codeOnScreen.jpeg" class="horizontally-centered">
               <h3 class="sub-heading text-centered">Web Hosting</h3>
               <p>Rosetta offers web hosting services at the  best rates ever .
               </p>
